@@ -1,5 +1,5 @@
 import ProBox from "./ProBox";
-import CarRental from "../images/car-rental-full.webp";
+import CarRental from "../images/car-rental.webp";
 import memeGenerator from "../images/meme-generator.webp";
 import LandingPage from "../images/landing_page.png";
 
