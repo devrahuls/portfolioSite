@@ -18,7 +18,7 @@ function Projects() {
                 img={CarRental}
                 description="A car rental website is an online platform that allows users to rent cars for personal or business use. The website provides an interface for searching, comparing, and reserving cars."
                 techno1="React"
-                techno2="Tailwind CSS"
+                techno2="SASS"
                 code="https://github.com/devrahuls/carRental"
                 demo="https://car-rental.devrahuls.vercel.app/"
                 scrollY="-89%"
@@ -42,7 +42,7 @@ function Projects() {
                 img={LandingPage}
                 description="Check out my personal project's landing page built with Tailwind CSS - a modern, minimalist design with seamless functionality."
                 techno1="React"
-                techno2="Tailwind"
+                techno2="Tailwind CSS"
                 code="https://github.com/devrahuls/tailwindcssUI"
                 demo="https://devrahuls.github.io/tailwindcssUI/"
                 scrollY="-74%"
